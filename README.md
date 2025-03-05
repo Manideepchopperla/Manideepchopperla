@@ -36,24 +36,24 @@ I’m passionate about building scalable and innovative applications that solve 
 ## 📌 **Featured Projects**  
 
 ### 🎬 **NetflixGPT - AI-Powered Movie Recommendation Platform**  
-🔗 [Live Demo](https://netflix-gpt-neon-rho.vercel.app) | 📂 [GitHub Repo](https://github.com/Manideepchopperla/netflix-gpt)  
+🔗 [Live Demo](https://netflix-gpt-neon-rho.vercel.app) | 📂 [GitHub Repo](https://github.com/Manideepchopperla/Netflix_GPT))  
 - Developed an AI-driven **movie recommendation platform**.  
 - Integrated **TMDB API** for real-time movie data and **Gemini API** for smart recommendations.  
 - Used **Redux** for efficient state management & **Firebase** for backend authentication.  
 - Built a **modern UI** with **Tailwind CSS**.  
 
 ### 💼 **Jobby - Job Search Application**  
-🔗 [Live Demo](https://chmanijobbyapp.ccbp.tech) | 📂 [GitHub Repo](https://github.com/Manideepchopperla/jobby-app)  
+🔗 [Live Demo](https://chmanijobbyapp.ccbp.tech) | 📂 [GitHub Repo](https://github.com/Manideepchopperla/Jobby)  
 - Implemented a **secure and interactive job search platform**.  
 - Used **JWT authentication & React Router** for a seamless user experience.  
 
 ### 🛒 **NxtTrendz - E-Commerce Web Application**  
-🔗 [Live Demo](https://manideepchnxt.ccbp.tech) | 📂 [GitHub Repo](https://github.com/Manideepchopperla/nxttrendz)  
+🔗 [Live Demo](https://manideepchnxt.ccbp.tech) | 📂 [GitHub Repo](https://github.com/Manideepchopperla/NxtTrendz))  
 - Developed a **fully functional e-commerce platform**.  
 - Integrated **REST API & JWT authentication** for user security.  
 
 ### 🍔 **FoodMunch - Responsive Food Ordering Web App**  
-🔗 [Live Demo](https://cmfoodmunch.ccbp.tech) | 📂 [GitHub Repo](https://github.com/Manideepchopperla/foodmunch)  
+🔗 [Live Demo](https://cmfoodmunch.ccbp.tech) | 📂 [GitHub Repo](https://github.com/Manideepchopperla/FoodMunch)
 - Designed a **responsive food ordering interface** with Bootstrap.  
 
 ---
