@@ -52,10 +52,6 @@ I’m passionate about building scalable and innovative applications that solve 
 - Developed a **fully functional e-commerce platform**.  
 - Integrated **REST API & JWT authentication** for user security.  
 
-### ⌨️ **Typing Speed Test**  
-🔗 [Live Demo](https://chmdeeptypetest.ccbp.tech) | 📂 [GitHub Repo](https://github.com/Manideepchopperla/typing-speed-test)  
-- A web-based **typing speed evaluator** that tracks typing accuracy.  
-
 ### 🍔 **FoodMunch - Responsive Food Ordering Web App**  
 🔗 [Live Demo](https://cmfoodmunch.ccbp.tech) | 📂 [GitHub Repo](https://github.com/Manideepchopperla/foodmunch)  
 - Designed a **responsive food ordering interface** with Bootstrap.  
@@ -63,17 +59,16 @@ I’m passionate about building scalable and innovative applications that solve 
 ---
 
 ## 📊 **GitHub Stats**  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manideepchopperla&show_icons=true&theme=radical)  
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manideepchopperla&layout=compact&theme=radical)  
 
 ---
 
 ## 🌐 **Connect With Me**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manideepchopperla/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manideepchopperla)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-profile)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/manideep_ch/)  
 📧 **Email:** [manideepchopperla1808@gmail.com](mailto:manideepchopperla1808@gmail.com)  
 
 ---
